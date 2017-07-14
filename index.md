@@ -1,18 +1,12 @@
 ---
 layout: default
 ---
-
-# [](#header-1)สารบัญ<br/>
+<br/>
+# [](#header-1)สารบัญ
 
 [คำนำ](chapters/foreword.html)
-
-
 [บทนำ](chapters/preface.html)
-
-
 **บทที่ 1:** [การ Refactoring คืออะไร](chapters/01.html)
-
-
 **บทที่ 2:** [คุณกำลังใช้ JavaScript ตัวไหน?](chapters/02.html)
 
 
